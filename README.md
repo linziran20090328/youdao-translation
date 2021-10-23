@@ -4,20 +4,17 @@
 将有道翻译做成图形化界面
 
 #### 软件架构
-软件架构说明
+无
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  pip install requests
+2.  pip install execjs
+
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+运行youdao_translate.py
 
 #### 参与贡献
 
